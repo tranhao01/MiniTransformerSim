@@ -1,5 +1,6 @@
 # Mini Transformer Simulation
 
+
 This repository contains a minimal example of core Transformer components. The `mini_transformer_simulation.py` script generates random query, key and value vectors for a small sequence of tokens. It then computes:
 
 - **Encoder self‑attention**: the input sequence attends to itself to produce context representations.
